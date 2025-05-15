@@ -1,1 +1,1 @@
-## A Repositore for all internship projects
+## A Repo for all internship projects
